@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&color=black&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&color=black&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=black&color=black&logo=vue.js&logoColor=4FC08D)
-![Vue Router](https://img.shields.io/badge/Vue%20Router-4FC08D?style=for-the-badge&labelColor=black&color=black&logo=vue-router&logoColor=4FC08D)
+![Vue Router](https://img.shields.io/badge/Vue%20Router-4FC08D?style=for-the-badge&labelColor=black&color=black&logo=vue&logoColor=4FC08D)
 ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&labelColor=black&color=black&logo=vue.js&logoColor=4FC08D)
 ![Pinia](https://img.shields.io/badge/Pinia-4FC08D?style=for-the-badge&labelColor=black&color=black&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&color=black&logo=react&logoColor=white)

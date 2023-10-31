@@ -23,6 +23,6 @@
 
 ## Follow me
 
-![Telegram](https://img.shields.io/badge/Git-30acec?style=for-the-badge&labelColor=black&color=black&logo=telegram&logoColor=30acec)
+[![Telegram](https://img.shields.io/badge/Telegram-30acec?style=for-the-badge&labelColor=black&color=black&logo=telegram&logoColor=30acec)](https://t.me/antoniobanderra)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=black&color=0077B5&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anton-pogadaiko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-087cbc?style=for-the-badge&labelColor=black&color=black&logo=linkedin&logoColor=087cbc)](https://www.linkedin.com/in/anton-pogadaiko)

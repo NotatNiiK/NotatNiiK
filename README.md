@@ -23,5 +23,6 @@
 
 ## Follow me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&labelColor=black&color=2CA5E0&logo=telegram&logoColor=black)](https://t.me/antoniobanderra)
+![Telegram](https://img.shields.io/badge/Git-30acec?style=for-the-badge&labelColor=black&color=black&logo=telegram&logoColor=30acec)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=black&color=0077B5&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anton-pogadaiko)

@@ -6,8 +6,8 @@
 
 ![HTML](https://img.shields.io/badge/HTML-ff8000?style=for-the-badge&labelColor=black&color=black&logo=html5&logoColor=f05c24)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&color=black&logo=css3&logoColor=284ce4)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&labelColor=black&color=black&logo=sass&logoColor=d0649c)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&labelColor=black&color=black&logo=sass&logoColor=d0649c)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&labelColor=black&color=black&logo=sass&logoColor=d0649c)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&color=black&logo=tailwind-css&logoColor=40bcfc)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&color=black&logo=javascript&logoColor=f0dc1c)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&color=black&logo=typescript&logoColor=387cc4)
@@ -20,3 +20,8 @@
 ![Mobx](https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&labelColor=black&color=black&logo=mobx&logoColor=e05c14)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&labelColor=black&color=black&logo=redux&logoColor=8844c4)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&color=black&logo=git&logoColor=f8543c)
+
+## Follow me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&labelColor=black&color=2CA5E0&logo=telegram&logoColor=black)](https://t.me/antoniobanderra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=black&color=0077B5&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anton-pogadaiko)

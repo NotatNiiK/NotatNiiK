@@ -5,10 +5,10 @@
 ## Languages and Tools
 
 ![HTML](https://img.shields.io/badge/HTML-ff8000?style=for-the-badge&labelColor=black&color=black&logo=html5&logoColor=f05c24)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&color=black&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&labelColor=black&color=black&logo=sass&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&labelColor=black&color=black&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&color=black&logo=tailwind-css&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&color=black&logo=css3&logoColor=284ce4)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&labelColor=black&color=black&logo=sass&logoColor=d0649c)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&labelColor=black&color=black&logo=sass&logoColor=d0649c)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&color=black&logo=tailwind-css&logoColor=40bcfc)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&color=black&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=black&color=black&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=black&color=black&logo=vue.js&logoColor=4FC08D)

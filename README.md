@@ -4,7 +4,7 @@
 
 ## Languages and Tools
 
-![HTML](https://img.shields.io/badge/HTML-ff8000?style=for-the-badge&labelColor=black&color=black&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ff8000?style=for-the-badge&labelColor=black&color=black&logo=html5&logoColor=f05c24)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&color=black&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&labelColor=black&color=black&logo=sass&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&labelColor=black&color=black&logo=sass&logoColor=white)
